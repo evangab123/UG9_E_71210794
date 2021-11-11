@@ -1,0 +1,6 @@
+mdb1= input("Masukan daftar belanja 1 : ")
+mdb2= input("Masukan daftar belanja 2 : ")
+tdb1= input("Tambahkan data ke daftar belanja 1 : ")
+tdb2= input("Tambahkan data ke daftar belanja 2 : ")
+print("Daftar belanja 1 adalah", mdb1+ ","+tdb1)
+print("Daftar belanja 2 adalah", mdb2+ ","+tdb2)
